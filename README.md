@@ -1,7 +1,7 @@
 # Foundry Fund Me
 
 This is a project made as part of the Cyfrin Solidity Course. I went through the course and uploaded the project. 
-My plan is to work on this project and make adjustments and improvements over time.
+My plan is to work on this project and make adjustments and improvements over time!
 
 *[⭐️ Foundry Fund Me]
 
